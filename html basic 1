@@ -2,8 +2,9 @@
 <html>
 <body>
     <h1>CPU</h1>
-    <p>out the instructions of a<u>computer</u>system that carries</p>
-    <p>out the instruction of a<u>computer</u>program</p>
+    <p><u><b>CPU</b> stands for central processing unit.</u></p>
+    <p>out the instructions of a <u>computer</u>system that carries</p>
+    <p>out the instruction of a <u>computer</u>program</p>
     <p>it carries out each instruction of program in sequence.</p>
     <p>to perform the basic arithmetical,logical,and input/output operations of the system</p>
 </body>
